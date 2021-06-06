@@ -29,9 +29,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sbleru&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sbleru&repo=blch)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sbleru&repo=blch)](https://github.com/sbleru/blch)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sbleru&repo=react-three-fiber-playground)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sbleru&repo=react-three-fiber-playground)](https://github.com/sbleru/react-three-fiber-playground)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbleru)](https://github.com/anuraghazra/github-readme-stats)
